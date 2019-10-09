@@ -1,8 +1,4 @@
 module.exports = {
-	pluginOptions: {
-		lintStyleOnBuild: false,
-		stylelint: {}
-	},
 	css: {
 		loaderOptions: {
 			sass: {

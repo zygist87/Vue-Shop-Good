@@ -11,8 +11,6 @@
 	],
 	"eslint.autoFixOnSave": true,
 	"editor.formatOnSave": true,
-	"prettier.eslintIntegration": true,
-	"prettier.stylelintIntegration": true,
 	"prettier.singleQuote": true,
 	"prettier.semi": false,
 	"prettier.useTabs": true,

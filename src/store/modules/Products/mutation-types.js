@@ -1,0 +1,3 @@
+export const UPDATE_STATUS = 'UPDATE_STATUS'
+export const SET_PRODUCTS = 'SET_PRODUCTS'
+export const UPDATE_FAVORITE = 'UPDATE_FAVORITE'

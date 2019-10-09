@@ -1,8 +1,4 @@
-const Welcome = () => import(/* webpackChunkName: "welcome-view" */ '@/views/Welcome')
+import Products from './Products'
+import Cart from './Cart'
 
-export default [
-	{
-		path: '/',
-		component: Welcome
-	}
-]
+export default [...Products, ...Cart]

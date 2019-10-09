@@ -1,9 +1,12 @@
 <template>
-  <h1>Welcome</h1>
+  <h1> Cart </h1>
 </template>
 
 <script>
 export default {
-	name: 'WelcomeView'
+	name: 'CartView'
 }
 </script>
+
+<style>
+</style>
